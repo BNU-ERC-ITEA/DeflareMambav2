@@ -1,0 +1,112 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C extensions
+*.o
+*.so.*
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project specific
+# Training outputs
+outputs/
+result/
+tb_logger/
+tb_logger_lpg/
+experiments/
+
+# Dataset (keep structure, exclude large files)
+data/
+dataset/
+test_data/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+*.swp
+temp/
+临时.py
+
+# Large archives (keep weights separate)
+*.zip
+*.tar
+*.tar.gz
+!mambamain/
+
+# PowerPoint and other documents
+*.pptx
+*.docx
+*.xlsx
+
+# Model weights (will be managed separately)
+# Optional: uncomment if not including weights
+# *.pth
+# weights/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor backups
+*~
+*.bak
+*.swp
