@@ -95,8 +95,7 @@ python evaluate_FlareX.py
 ## ⚠️ Important Notes
 
 - **Result Fluctuation**: Results may have minor variations (±0.01) due to randomness in computation
-- **Testing Code**: This is the inference version only
-- **Training Code**: Full training pipeline will be released after paper acceptance
+
 
 ---
 
