@@ -1,7 +1,5 @@
 # DeflareMambav2: Mamba-Based Nighttime Lens Flare Removal
 
-**Training Code**: Will be released after paper acceptance
-
 ---
 
 ## 📦 Project Structure
